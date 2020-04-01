@@ -1,0 +1,4162 @@
+[
+  {
+    "product_id": "4244733e06e7ecb4970a6e2683c13e61",
+    "mean_price": 59.2333333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e5f2d52b802189ee658865ca93d83a8f",
+    "mean_price": 239.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c777355d18b72b67abbeef9df44fd0fd",
+    "mean_price": 199.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7634da152a4610f1595efa32f14722fc",
+    "mean_price": 12.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ac6c3623068f30de03045865e4e10089",
+    "mean_price": 202.4,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ef92defde845ab8450f9d70c526ef70f",
+    "mean_price": 21.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8d4f2bb7e93e6710a28f34fa83ee7d28",
+    "mean_price": 18.5666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "557d850972a7d6f792fd18ae1400d9b6",
+    "mean_price": 810.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "310ae3c140ff94b03219ad0adc3c778f",
+    "mean_price": 145.95,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4535b0e1091c278dfd193e5a1d63b39f",
+    "mean_price": 53.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d63c1011f49d98b976c352955b1c4bea",
+    "mean_price": 59.2627272727,
+    "sold_units": 3
+  },
+  {
+    "product_id": "f177554ea93259a5b282f24e33f65ab6",
+    "mean_price": 45.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "99a4788cb24856965c36a24e339b6058",
+    "mean_price": 88.1671311475,
+    "sold_units": 4
+  },
+  {
+    "product_id": "368c6c730842d78016ad823897a372db",
+    "mean_price": 54.2701030928,
+    "sold_units": 5
+  },
+  {
+    "product_id": "8cab8abac59158715e0d70a36c807415",
+    "mean_price": 99.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "3f27ac8e699df3d300ec4a5d8c5cf0b2",
+    "mean_price": 639.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4fa33915031a8cde03dd0d3e8fb27f01",
+    "mean_price": 148.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b50c950aba0dcead2c48032a690ce817",
+    "mean_price": 99.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5ed9eaf534f6936b51d0b6c5e4d5c2e9",
+    "mean_price": 24.9828571429,
+    "sold_units": 1
+  },
+  {
+    "product_id": "553e0e7590d3116a072507a3635d2877",
+    "mean_price": 46.4833333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "57d79905de06d8897872c551bfd09358",
+    "mean_price": 26.7486206897,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1c05e0964302b6cf68ca0d15f326c6ba",
+    "mean_price": 122.8233333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5d7c23067ed3fc8c6e699b9373d5890b",
+    "mean_price": 52.9130434783,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5a419dbf24a8c9718fe522b81c69f61a",
+    "mean_price": 45.6522222222,
+    "sold_units": 1
+  },
+  {
+    "product_id": "21b1c2f67a9aafb5af0eb06c13b9dbda",
+    "mean_price": 227.4,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c389f712c4b4510bc997cee93e8b1a28",
+    "mean_price": 285.6666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1c0c0093a48f13ba70d0c6b0a9157cb7",
+    "mean_price": 109.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "89321f94e35fc6d7903d36f74e351d40",
+    "mean_price": 28.3673109244,
+    "sold_units": 1
+  },
+  {
+    "product_id": "38afdf723b95d455b418a0f57d623c6b",
+    "mean_price": 119.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "672e757f331900b9deea127a2a7b79fd",
+    "mean_price": 405.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "28b4eced95a52d9c437a4caf9d311b95",
+    "mean_price": 59.9,
+    "sold_units": 3
+  },
+  {
+    "product_id": "e95ee6822b66ac6058e2e4aff656071a",
+    "mean_price": 21.5090909091,
+    "sold_units": 4
+  },
+  {
+    "product_id": "23365beed316535b4105bd800c46670e",
+    "mean_price": 15.9664516129,
+    "sold_units": 1
+  },
+  {
+    "product_id": "50fd2b788dc166edd20512370dac54df",
+    "mean_price": 21.825,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b10eba910a974df70b8a12d0665cdb9e",
+    "mean_price": 38.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4089861a1bd4685da70bddd6b4f974f1",
+    "mean_price": 49.75,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fe59a1e006df3ac42bf0ceb876d70969",
+    "mean_price": 762.0083333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c6dd917a0be2a704582055949915ab32",
+    "mean_price": 98.9035,
+    "sold_units": 2
+  },
+  {
+    "product_id": "0b0172eb0fd18479d29c3bc122c058c2",
+    "mean_price": 25.2675,
+    "sold_units": 3
+  },
+  {
+    "product_id": "dbaee28f4ee64465838a229582d77520",
+    "mean_price": 54.825,
+    "sold_units": 1
+  },
+  {
+    "product_id": "dbb67791e405873b259e4656bf971246",
+    "mean_price": 79.2655681818,
+    "sold_units": 1
+  },
+  {
+    "product_id": "84f456958365164420cfc80fbe4c7fab",
+    "mean_price": 92.8374774775,
+    "sold_units": 4
+  },
+  {
+    "product_id": "e67307ff0f15ade43fcb6e670be7a74c",
+    "mean_price": 18.8709756098,
+    "sold_units": 2
+  },
+  {
+    "product_id": "30c01cc81c9eb80469371743813789cc",
+    "mean_price": 38.33,
+    "sold_units": 1
+  },
+  {
+    "product_id": "777d2e438a1b645f3aec9bd57e92672c",
+    "mean_price": 69.870212766,
+    "sold_units": 2
+  },
+  {
+    "product_id": "884fa3cd42986ba480ea2f8ae4e25ff7",
+    "mean_price": 195.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "bdcf6a834e8faa30dac3886c7a58e92e",
+    "mean_price": 37.6215625,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a5341e3f8155dbb3e62323d3ea289729",
+    "mean_price": 88.9390243902,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e19ddcc85537b41f22116c8d5425ef46",
+    "mean_price": 29.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e6b6e13cf71449a457269f425b89dc74",
+    "mean_price": 94.6619047619,
+    "sold_units": 1
+  },
+  {
+    "product_id": "13fcfc313dfb2217e5ee3000a702f9ef",
+    "mean_price": 74.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4e3f399366b0047a572b6682f9bb166e",
+    "mean_price": 14.95,
+    "sold_units": 1
+  },
+  {
+    "product_id": "18901878788fec7ddc55e64d1ace8187",
+    "mean_price": 149.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "0c4d0a08f95c7b7dc5dc7402bfdafd4c",
+    "mean_price": 19.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "35537536ed2b4c561b4018bf3abf54e0",
+    "mean_price": 382.3076923077,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fe077ec80df6b4ee60bb4498d5ab1962",
+    "mean_price": 136.2727272727,
+    "sold_units": 1
+  },
+  {
+    "product_id": "430d215740da7fdda91cc938f8fd92f6",
+    "mean_price": 104.1428571429,
+    "sold_units": 1
+  },
+  {
+    "product_id": "892832da5b05b0f54578e1f14f193c22",
+    "mean_price": 165.6666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6490b9f63b0b595e1c1402b46b0f50ad",
+    "mean_price": 279.9785714286,
+    "sold_units": 1
+  },
+  {
+    "product_id": "71c89e9d8fa274b017279aa322cd0e19",
+    "mean_price": 44.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "df3655ac9aa8c6cbfa63bdd8d3b09c50",
+    "mean_price": 37.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "059344baebbeaa42fa9f2bbe11b1583e",
+    "mean_price": 29.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d9bdf643d95cb89844c0da1a0df1d16e",
+    "mean_price": 121.0055555556,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7614c62b86a81021243e438cfde78ccc",
+    "mean_price": 502.634,
+    "sold_units": 1
+  },
+  {
+    "product_id": "01c666c82f414c762ad21bffa56e8b49",
+    "mean_price": 94.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c2ece64199af7a53793ed9612a89a8cd",
+    "mean_price": 83.08,
+    "sold_units": 2
+  },
+  {
+    "product_id": "cc47c0863559499f01b4cad750929d10",
+    "mean_price": 199.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a6f449f6257f26e556013151cee46b4b",
+    "mean_price": 99.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2d9ff06c8870a518f5f6909774e140fb",
+    "mean_price": 78.0,
+    "sold_units": 2
+  },
+  {
+    "product_id": "97c58626cc3e15d514d2095f69650220",
+    "mean_price": 155.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d54c5b81fc2b38707588dd4eddc7c594",
+    "mean_price": 262.74,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9eae06d51aaa383b2bed5547a19d581c",
+    "mean_price": 53.98,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d41dc2f2979f52d75d78714b378d4068",
+    "mean_price": 8.9966666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "880be32f4db1d9f6e2bec38fb6ac23ab",
+    "mean_price": 43.9739393939,
+    "sold_units": 3
+  },
+  {
+    "product_id": "ae27a5524edb2c8dc4656c670f458fb7",
+    "mean_price": 49.3857142857,
+    "sold_units": 1
+  },
+  {
+    "product_id": "bd7cab8de4d7943286634023cc06f8ff",
+    "mean_price": 230.7692307692,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c8e7c2ef329fcda4a233e7e2f8bb8b7d",
+    "mean_price": 39.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "54e5063e43f27f747d592eb24e913150",
+    "mean_price": 76.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "08279c494018541f71443c07d77560f8",
+    "mean_price": 159.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2b939dc9b176d7fa21594d588815d4a4",
+    "mean_price": 95.02,
+    "sold_units": 3
+  },
+  {
+    "product_id": "87b08e712cc4c9fe70984c5a24b29e2f",
+    "mean_price": 63.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e1bf2f209fd2b08e1af3ed71732d9008",
+    "mean_price": 168.885,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1f9799a175f50c9fa725984775cac5c5",
+    "mean_price": 59.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "13944d17b257432717fd260e69853140",
+    "mean_price": 59.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "84904413b82eee333a3f79137e8d197e",
+    "mean_price": 232.75,
+    "sold_units": 1
+  },
+  {
+    "product_id": "0f2fd0a589cb7849c1dbedbd4109c2f8",
+    "mean_price": 50.8,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8a6187b2665118d5095f99a25fd7ba7a",
+    "mean_price": 87.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ec02a5d380128f7a188e9ce8f3ddd832",
+    "mean_price": 131.8230769231,
+    "sold_units": 2
+  },
+  {
+    "product_id": "71a5f1c2a5fd9889ef26b5ac22aec9c6",
+    "mean_price": 22.1222222222,
+    "sold_units": 2
+  },
+  {
+    "product_id": "4c1bbc12438daec98a77243c2bf7a3ba",
+    "mean_price": 140.8321052632,
+    "sold_units": 1
+  },
+  {
+    "product_id": "3a264b078bf20e98f315ff65c23fa263",
+    "mean_price": 368.3233333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "38fa750a3a3b3204f169c86a3284d387",
+    "mean_price": 40.9818181818,
+    "sold_units": 1
+  },
+  {
+    "product_id": "99e71b776debf2f01a69dce207e3e4f8",
+    "mean_price": 69.0,
+    "sold_units": 2
+  },
+  {
+    "product_id": "62984ea1bba7fcea1f5b57084d3bf885",
+    "mean_price": 180.45,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a4d286543a67e29c930c99cbd7a55a8f",
+    "mean_price": 104.45,
+    "sold_units": 1
+  },
+  {
+    "product_id": "452f66a0f164cac57802e2cea93188ac",
+    "mean_price": 45.4,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fadc89c2a60ff96b18827644074dfd70",
+    "mean_price": 76.217,
+    "sold_units": 1
+  },
+  {
+    "product_id": "db886bd83f6a076a2caeb7fd02722c35",
+    "mean_price": 220.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "41402af2a88247152583bb812ba235dd",
+    "mean_price": 277.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "3fbc0ef745950c7932d5f2a446189725",
+    "mean_price": 65.75,
+    "sold_units": 2
+  },
+  {
+    "product_id": "500870614ddcf5bd84f7d26861026c8a",
+    "mean_price": 17.789375,
+    "sold_units": 1
+  },
+  {
+    "product_id": "656e0eca68dcecf6a31b8ececfabe3e8",
+    "mean_price": 88.4936170213,
+    "sold_units": 2
+  },
+  {
+    "product_id": "4bc3ab2ff016887e619e587a993af3bf",
+    "mean_price": 229.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "53b36df67ebb7c41585e8d54d6772e08",
+    "mean_price": 116.6669349845,
+    "sold_units": 2
+  },
+  {
+    "product_id": "3f14d740544f37ece8a9e7bc8349797e",
+    "mean_price": 84.9563736264,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8b5632d7a4f86bd2f1331355305427e6",
+    "mean_price": 166.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5e21d5cab5d33e770d8150a4ee6117db",
+    "mean_price": 49.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d0fb1e667e989933a80444f93da833c0",
+    "mean_price": 37.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "01cf56cd6138b926a4802d16fc304149",
+    "mean_price": 178.61,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9545d45c37449ccbc376de3a04c66e71",
+    "mean_price": 126.3905660377,
+    "sold_units": 1
+  },
+  {
+    "product_id": "86a11a09edde2267675505fc4d56d9b0",
+    "mean_price": 94.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "19f0917ba5781b978298ffcd9ae225c1",
+    "mean_price": 97.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ff6caf9340512b8bf6d2a2a6df032cfa",
+    "mean_price": 7.79,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9df0e8a7eef2a38b74e6d5c0e224b11f",
+    "mean_price": 178.49,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a9c404971d1a5b1cbc2e4070e02731fd",
+    "mean_price": 7.6,
+    "sold_units": 1
+  },
+  {
+    "product_id": "389d119b48cf3043d311335e499d9c6b",
+    "mean_price": 54.6953826531,
+    "sold_units": 2
+  },
+  {
+    "product_id": "c589625c8ccc7bfd2e8f1fb041e24c4a",
+    "mean_price": 110.32,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8c5876b1c7768217964f353bc7e64393",
+    "mean_price": 49.0610169492,
+    "sold_units": 1
+  },
+  {
+    "product_id": "cd71c76f5ab15f51f24fb214fc42d8ab",
+    "mean_price": 159.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "28a652ff04e43c1bc57937a9f8770f9b",
+    "mean_price": 111.652173913,
+    "sold_units": 1
+  },
+  {
+    "product_id": "0c753fe6a58dfa7a27bda5de76e779c3",
+    "mean_price": 21.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5a848e4ab52fd5445cdc07aab1c40e48",
+    "mean_price": 122.99,
+    "sold_units": 2
+  },
+  {
+    "product_id": "68c923fddf7f83316b53252eaf830724",
+    "mean_price": 70.365,
+    "sold_units": 1
+  },
+  {
+    "product_id": "601a360bd2a916ecef0e88de72a6531a",
+    "mean_price": 127.3933613445,
+    "sold_units": 2
+  },
+  {
+    "product_id": "0c4a0f8ab44f9acd2d04e7024f9ba362",
+    "mean_price": 33.89,
+    "sold_units": 4
+  },
+  {
+    "product_id": "d1c427060a0f73f6b889a5c7c61f2ac4",
+    "mean_price": 137.6516326531,
+    "sold_units": 3
+  },
+  {
+    "product_id": "41eee23c25f7a574dfaf8d5c151dbb12",
+    "mean_price": 20.3,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8695c431b31927efef5343e675f279e7",
+    "mean_price": 179.9,
+    "sold_units": 2
+  },
+  {
+    "product_id": "d9c01b484ada6a360c2715a08fdf1568",
+    "mean_price": 109.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "bd6e8cf9fe4122c385da2bcb9f979d5d",
+    "mean_price": 61.7,
+    "sold_units": 4
+  },
+  {
+    "product_id": "2948658cb6abc82847412be7201bfc4c",
+    "mean_price": 114.0845070423,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7e6c4a0bf900e259f50ba63331fd2785",
+    "mean_price": 70.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "381169576b9f3c083a1c3261da161a3b",
+    "mean_price": 46.86,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7e97894cc00196a56d6ec315c68b2353",
+    "mean_price": 98.9916666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fb7a100ec8c7b34f60cec22b1a9a10e0",
+    "mean_price": 49.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4c3ae5db49258df0784827bdacf3b396",
+    "mean_price": 22.8514285714,
+    "sold_units": 2
+  },
+  {
+    "product_id": "03bb24d19ea7449ce170e0888d830707",
+    "mean_price": 152.7666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f9259c9e7c0f12c70f7a81409680a5ff",
+    "mean_price": 72.6184,
+    "sold_units": 1
+  },
+  {
+    "product_id": "32a8448d1612773bcfd0c5a8dd235e4e",
+    "mean_price": 39.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "3d514fecadf6cef40a2a32a3c20cd1c8",
+    "mean_price": 159.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f819f0c84a64f02d3a5606ca95edd272",
+    "mean_price": 644.9884444444,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fa11ecd35f999783e96ac500532d9d45",
+    "mean_price": 189.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7d187801885842645486f00fb166f378",
+    "mean_price": 14.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "205604b962ebdae1c924e0d14e6e8ac1",
+    "mean_price": 43.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2fb0efd1f61f186ffdda9e8ec70f27f2",
+    "mean_price": 139.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "02ed3b595447e948efc3eac897e4df0e",
+    "mean_price": 40.35,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2f763ba79d9cd987b2034aac7ceffe06",
+    "mean_price": 469.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "71bdf1a4d18c3cd68f108547f0b4cd1c",
+    "mean_price": 59.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "525f8fbde09c9bf777025c3141fbbc6e",
+    "mean_price": 35.9,
+    "sold_units": 2
+  },
+  {
+    "product_id": "735413ccfa564132a231aad945ef85ad",
+    "mean_price": 96.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e53e557d5a159f5aa2c5e995dfdf244b",
+    "mean_price": 84.3674863388,
+    "sold_units": 3
+  },
+  {
+    "product_id": "b20004b530789d5db586f589da0ef3e3",
+    "mean_price": 229.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e10758160da97891c2fdcbc35f0f031d",
+    "mean_price": 56.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "83d199d296c44101c8c3b5c9c0cce9ea",
+    "mean_price": 72.3429411765,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1ec486885049bbb9b79351d150ed18c4",
+    "mean_price": 49.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "85d619318aa201aca57171aabeed0048",
+    "mean_price": 14.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "02475368dfb38934fe55f574024fe1d7",
+    "mean_price": 29.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "08574b074924071f4e201e151b152b4e",
+    "mean_price": 95.2150442478,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8474d936fee23f0c45620cc2022871cc",
+    "mean_price": 549.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "aacfae7cd4bac4849766f640abf2db8a",
+    "mean_price": 39.85,
+    "sold_units": 1
+  },
+  {
+    "product_id": "31a2f42a87890f87d77daebdfabc182e",
+    "mean_price": 146.4571428571,
+    "sold_units": 1
+  },
+  {
+    "product_id": "00ffe57f0110d73fd84d162252b2c784",
+    "mean_price": 179.98,
+    "sold_units": 1
+  },
+  {
+    "product_id": "0f80705139ce16ea35bb489987399b55",
+    "mean_price": 219.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "526f833e1eb0a32ad9351145a761b9ab",
+    "mean_price": 129.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "bfc0d01be79d9038c7720f983bf954e0",
+    "mean_price": 135.4375,
+    "sold_units": 1
+  },
+  {
+    "product_id": "85b8a24337b4e2571f8fee38f4253a06",
+    "mean_price": 37.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f9d774a1820f792952eea079a40a7c6b",
+    "mean_price": 154.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "722f84416177a451c3be217ef8ffa082",
+    "mean_price": 253.52,
+    "sold_units": 1
+  },
+  {
+    "product_id": "19421075ae0b585f2dc13ff149e2119d",
+    "mean_price": 47.2559322034,
+    "sold_units": 2
+  },
+  {
+    "product_id": "0ec7b6a863e219792bc4d50d3a62a839",
+    "mean_price": 152.0428571429,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ce130b350f529a1d6288f927da7404ea",
+    "mean_price": 64.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "15c30c08ae39469fbf52befff9569adb",
+    "mean_price": 185.9966666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "779559842fc122d55edbd03153f35e81",
+    "mean_price": 27.4,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e819fddd6622f30e872bfc89471c1408",
+    "mean_price": 39.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2083a6feb4bbb31f6abc92fc24e468c0",
+    "mean_price": 6.9230769231,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e1c0a39b7f806727ea5121c60035ed3c",
+    "mean_price": 269.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1d417ca09479182e9fdf13a1c77c309f",
+    "mean_price": 99.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7340a3839a1de1e99d149b8cf052a2ec",
+    "mean_price": 69.7727272727,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a963ea4d494221de09b70f1b4a70edbd",
+    "mean_price": 89.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e40fa115d27ea4a80bf2136d5f0cfcd7",
+    "mean_price": 159.6666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "22d65c4f3ab25834df12163a3403da32",
+    "mean_price": 57.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "62c89abe1afe3a23c17765d462718a4c",
+    "mean_price": 244.8125,
+    "sold_units": 1
+  },
+  {
+    "product_id": "57f2bc497c1a3ebe41ba7a06d78ed159",
+    "mean_price": 54.9736842105,
+    "sold_units": 1
+  },
+  {
+    "product_id": "eb8dbe7d2dd22ab3547925e49a78feb3",
+    "mean_price": 133.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a8115d34a4b7b74388da609692162c37",
+    "mean_price": 32.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5b3aa845bba5aa7ba1216e36ae882cfa",
+    "mean_price": 14.8961538462,
+    "sold_units": 1
+  },
+  {
+    "product_id": "016711f78a6a87696645db0a6a834826",
+    "mean_price": 100.1947368421,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f71a7c95a86564873cd996896b2976f6",
+    "mean_price": 90.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "52a8061c8e8e8cea30b41344aac26431",
+    "mean_price": 43.49,
+    "sold_units": 1
+  },
+  {
+    "product_id": "77fdeb8d4f7502f75b6779205f30a875",
+    "mean_price": 118.8288888889,
+    "sold_units": 1
+  },
+  {
+    "product_id": "efec0b0b076ce3f164b80145743ebc02",
+    "mean_price": 9.99,
+    "sold_units": 2
+  },
+  {
+    "product_id": "d5f1f35337b832cc42168c69511e311d",
+    "mean_price": 28.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7583d9a579408cb84bbc7b0e4548ec18",
+    "mean_price": 204.9714285714,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fa28f114992077c601cdb9810c5108a4",
+    "mean_price": 135.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "23f91e3d76be3938bfad0ff292392502",
+    "mean_price": 249.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f23c48d81cd6a0c87f5c3b14aac68371",
+    "mean_price": 49.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "bf06a69bb27c58156391de458700f3e7",
+    "mean_price": 38.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "cbecf0dca7a42c56c9ad9e20c74af1fd",
+    "mean_price": 84.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a50acd33ba7a8da8e9db65094fa990a4",
+    "mean_price": 117.3,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4dcb49b9ca7e48d2f108d40caa77caa2",
+    "mean_price": 96.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9bb2d066e4b33b624cbdfec7d50b3dcb",
+    "mean_price": 97.84,
+    "sold_units": 1
+  },
+  {
+    "product_id": "0ea04fc101523a27bb53845d14d7d809",
+    "mean_price": 18.25,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d64e758afad411049a45e42c9a259241",
+    "mean_price": 11.53,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b596e2d70dd2f5fb5ff9ee2a1c803e5b",
+    "mean_price": 257.49,
+    "sold_units": 1
+  },
+  {
+    "product_id": "464383c22e65860826cf78650fe0f4e4",
+    "mean_price": 89.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e8c6039a25765995ac7c1ec2cbef5765",
+    "mean_price": 23.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "55782cb82e0efe052da0a3da237da3b2",
+    "mean_price": 177.0034482759,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ee3e94e918d05a5da04a4cb547e91dcc",
+    "mean_price": 133.91,
+    "sold_units": 1
+  },
+  {
+    "product_id": "eaa26a34984cbfedc19b1e45f09f3c9a",
+    "mean_price": 92.7090909091,
+    "sold_units": 1
+  },
+  {
+    "product_id": "dfbbf137ccb6af48e66d186a33118579",
+    "mean_price": 62.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b6397895a17ce86decd60b898b459796",
+    "mean_price": 158.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "636598095d69a5718e67d2c9a3c7dde6",
+    "mean_price": 313.25,
+    "sold_units": 1
+  },
+  {
+    "product_id": "36826c711e5778c8d88a7311cc29c446",
+    "mean_price": 129.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "568ba441f7f464dc73d23a91cf8ca671",
+    "mean_price": 143.54,
+    "sold_units": 1
+  },
+  {
+    "product_id": "06edb72f1e0c64b14c5b79353f7abea3",
+    "mean_price": 40.7816083916,
+    "sold_units": 2
+  },
+  {
+    "product_id": "f3b8bfa5b86249e75e5c0632acc0e82e",
+    "mean_price": 49.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "595fac2a385ac33a80bd5114aec74eb8",
+    "mean_price": 119.2160377358,
+    "sold_units": 2
+  },
+  {
+    "product_id": "35557c68a22ecebcf066e25ca2ddc144",
+    "mean_price": 16.9,
+    "sold_units": 2
+  },
+  {
+    "product_id": "1629b469d01aadb4f92644039ad17d5c",
+    "mean_price": 29.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "519f3a4ea67cdce4923fbc76badd6bd2",
+    "mean_price": 30.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "617186c3d97ea56c9c683a8a3974e8c1",
+    "mean_price": 83.4110526316,
+    "sold_units": 2
+  },
+  {
+    "product_id": "f7a17d2c51d9df89a4f1711c4ac17f33",
+    "mean_price": 52.026984127,
+    "sold_units": 3
+  },
+  {
+    "product_id": "ecab3fa721d1b06c225f23c30f02eb5e",
+    "mean_price": 139.49,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fca62108387e25005784da2f551466a1",
+    "mean_price": 249.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4834f24983a4f056e5ae64265f723aaf",
+    "mean_price": 24.89,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ee0c1cf2fbeae95205b4aa506f1469f0",
+    "mean_price": 51.6641573034,
+    "sold_units": 1
+  },
+  {
+    "product_id": "786248c98cab9ad5cccdb751909da1af",
+    "mean_price": 15.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "0aabfb375647d9738ad0f7b4ea3653b1",
+    "mean_price": 24.0612676056,
+    "sold_units": 2
+  },
+  {
+    "product_id": "f8b624d4e475bb8d1bddf1b65c6a64f6",
+    "mean_price": 179.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "64d67d69ec57113ff99bbaab62ac1c53",
+    "mean_price": 37.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "56cdfe67fbda57c1dcc752f5f361f981",
+    "mean_price": 95.892,
+    "sold_units": 3
+  },
+  {
+    "product_id": "33bd5538a16d23f0a39da1c9bfd20980",
+    "mean_price": 177.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6536314c94d43b787fc1c622941da14b",
+    "mean_price": 32.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "aca2eb7d00ea1a7b8ebd4e68314663af",
+    "mean_price": 71.3641366224,
+    "sold_units": 3
+  },
+  {
+    "product_id": "24a014458ccc6e989b4fcef5fa71da58",
+    "mean_price": 109.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "76d75f398634bf194ba99d7297e7d1fa",
+    "mean_price": 52.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e9f2586707fb45ea0f9997c54f585842",
+    "mean_price": 110.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fcf64c72035fc6f17660bae96c933ffb",
+    "mean_price": 35.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c6336fa91fbd87c359e44f5dca5a90ed",
+    "mean_price": 43.7361702128,
+    "sold_units": 4
+  },
+  {
+    "product_id": "634256dbcd184b3757ffd7632c9fe52a",
+    "mean_price": 25.46375,
+    "sold_units": 1
+  },
+  {
+    "product_id": "224037b21bfa8621e39c265513ee6594",
+    "mean_price": 579.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "78efe838c04bbc568be034082200ac20",
+    "mean_price": 95.5069306931,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8323a7adeb57da21acea7e83563bed90",
+    "mean_price": 39.375,
+    "sold_units": 1
+  },
+  {
+    "product_id": "aba86c093ccdbac75b09111d57e50004",
+    "mean_price": 119.6350877193,
+    "sold_units": 2
+  },
+  {
+    "product_id": "5403528d987ad26e8d7cb25940411987",
+    "mean_price": 48.8965517241,
+    "sold_units": 1
+  },
+  {
+    "product_id": "66f09a6de4f2ef63aaf5349b60a0e0c0",
+    "mean_price": 27.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1e1a186a03f0d98268516827690d4fd2",
+    "mean_price": 68.6,
+    "sold_units": 1
+  },
+  {
+    "product_id": "eb883e95b710f252cb15d0fb41d8bbe9",
+    "mean_price": 105.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7e8067e7e5ce7aec0e2cb7c1a456d112",
+    "mean_price": 25.79,
+    "sold_units": 2
+  },
+  {
+    "product_id": "e0d64dcfaa3b6db5c54ca298ae101d05",
+    "mean_price": 163.8495876289,
+    "sold_units": 1
+  },
+  {
+    "product_id": "3552627a68384dc559f0fd4cce173269",
+    "mean_price": 196.5666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "72d6074ef5c81ec3102b3f2a052c5f49",
+    "mean_price": 139.65,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d9a5a5120d4d357871acd5408cb10e18",
+    "mean_price": 59.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "0e40b1ed4cfd3da1962ec91913e54ba8",
+    "mean_price": 13.65,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e5bd04e8e3cb77f1a49404d588d3e528",
+    "mean_price": 31.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ba05e2861971098fc7ecd8162c23452a",
+    "mean_price": 33.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "87ea2f45559e10519513a20b24147316",
+    "mean_price": 158.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5b4b8595bd33017cf3c87c8ab09c2e42",
+    "mean_price": 47.4,
+    "sold_units": 1
+  },
+  {
+    "product_id": "121b9686b9929855d823981fc655a6fe",
+    "mean_price": 55.0818181818,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c075b8e131353552218860f1c421e4ef",
+    "mean_price": 56.9357142857,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e7cc48a9daff5436f63d3aad9426f28b",
+    "mean_price": 174.3655913978,
+    "sold_units": 2
+  },
+  {
+    "product_id": "cb3ad2d2499eebaa7ccb4fd1e7db9bc7",
+    "mean_price": 69.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "437c05a395e9e47f9762e677a7068ce7",
+    "mean_price": 50.0510322581,
+    "sold_units": 2
+  },
+  {
+    "product_id": "5d90b82ad1fdff812987fa28158b7984",
+    "mean_price": 40.9,
+    "sold_units": 2
+  },
+  {
+    "product_id": "4a25d757ff72fad7534f478c90be77e6",
+    "mean_price": 14.5822727273,
+    "sold_units": 1
+  },
+  {
+    "product_id": "69455f41626a745aea9ee9164cb9eafd",
+    "mean_price": 162.2556097561,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2b4609f8948be18874494203496bc318",
+    "mean_price": 87.3739230769,
+    "sold_units": 2
+  },
+  {
+    "product_id": "33fac76e7f17367dedaef7954bbb33b4",
+    "mean_price": 86.65,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6c90c0f6c2d89eb816b9e205b9d6a36a",
+    "mean_price": 165.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b7d94dc0640c7025dc8e3b46b52d8239",
+    "mean_price": 174.319,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d143bf43abb18593fa8ed20cc990ae84",
+    "mean_price": 165.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "55939df5d8d2b853fbc532bf8a00dc32",
+    "mean_price": 165.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1427b126f61597524866770b05d4eed2",
+    "mean_price": 98.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e70f7c188cd2c0f01a1f6b35411cc481",
+    "mean_price": 78.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "cfbc837967ca671ee87f5243f2a1024d",
+    "mean_price": 21.8,
+    "sold_units": 1
+  },
+  {
+    "product_id": "20566af10fda4783935b8cef249fa4c3",
+    "mean_price": 118.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "cdc9d87e17ccf98f35634e6c3b77073e",
+    "mean_price": 119.8,
+    "sold_units": 1
+  },
+  {
+    "product_id": "216bb0e0cd43ffd832e0973d35e0377e",
+    "mean_price": 45.4324324324,
+    "sold_units": 2
+  },
+  {
+    "product_id": "7289a8d65ae2c86dfdee27f8af257a3d",
+    "mean_price": 449.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7933eeb8cf79ae899bfac71c0edb076d",
+    "mean_price": 139.85,
+    "sold_units": 2
+  },
+  {
+    "product_id": "b944aabf1fc45c01599ee96c7f4d533e",
+    "mean_price": 17.3,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c4cf7c2e1f190d51517eba7e8211c8e6",
+    "mean_price": 29.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6131240aedf34224270cd6f07e8229e4",
+    "mean_price": 37.775,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e62d582ddb7630168d7227ca1f9edbd2",
+    "mean_price": 59.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f196248e8b5d060cca414a664ea9a76f",
+    "mean_price": 199.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "adf591c625cb265c12bc6749d3a2f757",
+    "mean_price": 31.58,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8e7a3ee016b12c87b5e3e7e717620758",
+    "mean_price": 120.9090909091,
+    "sold_units": 2
+  },
+  {
+    "product_id": "ace05b62c79dffc86cd12b281dc05b93",
+    "mean_price": 24.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c072e7b87c8413341505d50d8234fbc2",
+    "mean_price": 79.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5d66715cc928aadd0074f61332698593",
+    "mean_price": 19.77109375,
+    "sold_units": 3
+  },
+  {
+    "product_id": "81e11b02560e506662f5d75a88b94fa5",
+    "mean_price": 158.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4b2653088591de362e6ba85b4a474c75",
+    "mean_price": 1050.61,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ef8856db4e302ad33dc4d91e40f7593c",
+    "mean_price": 106.364,
+    "sold_units": 1
+  },
+  {
+    "product_id": "958cd4fc82ce0223c757f47bc9d67e23",
+    "mean_price": 362.45,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2ffb8b836bb62d53a77a69a67814fffa",
+    "mean_price": 44.55,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1a0d662b65b5ef08796501b064c853af",
+    "mean_price": 14.99,
+    "sold_units": 4
+  },
+  {
+    "product_id": "a3f986f6c4400aa6545d224be435f812",
+    "mean_price": 125.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "cebff45f1d1558430be0e07ac0df6a68",
+    "mean_price": 98.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "79e42c4fa2bde6e0c828d23c4fb7df35",
+    "mean_price": 67.5666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "101a896b1137f70a7bbb2b9fac61458d",
+    "mean_price": 297.7655555556,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8c81af91a9b96d073ccaf0d3402ec5b2",
+    "mean_price": 59.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fec85e6c0eab9b4bcddf9ccd917c80bc",
+    "mean_price": 29.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c35498fbb4358837ae16850f50c3fd22",
+    "mean_price": 73.4545454545,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1809be4f054d8243278d6c83207696ee",
+    "mean_price": 56.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a60613d36f37a7b27d3344f40f6a7945",
+    "mean_price": 168.8888888889,
+    "sold_units": 1
+  },
+  {
+    "product_id": "702a14f9c5a93130c3346c4de901d864",
+    "mean_price": 57.95,
+    "sold_units": 1
+  },
+  {
+    "product_id": "23227b07fc69250d2fa4be6602011aea",
+    "mean_price": 64.9,
+    "sold_units": 2
+  },
+  {
+    "product_id": "44fc450365728c413fefc547592626be",
+    "mean_price": 852.5333333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5fb8e63ae576fbfbd243c50c5ce74050",
+    "mean_price": 20.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f471a2281d25a1dbf3193dd5e969aa0f",
+    "mean_price": 19.45,
+    "sold_units": 1
+  },
+  {
+    "product_id": "71a7800a633691de8ecdd17463335e2e",
+    "mean_price": 66.5363636364,
+    "sold_units": 2
+  },
+  {
+    "product_id": "616042729c11849827291496b18e9ec5",
+    "mean_price": 58.5842105263,
+    "sold_units": 1
+  },
+  {
+    "product_id": "eb2d12bc991561d4ca5deff0e60854e4",
+    "mean_price": 123.925,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fb8e60e1a3c247d3a2e17f6986e71a40",
+    "mean_price": 189.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7814c273ab16783d73a9863ebfa8b141",
+    "mean_price": 238.2580645161,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a0450529bd974ebeaf93b1731184396a",
+    "mean_price": 93.2333333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a35a9f46dcee0a67c8c7ad8493eb4135",
+    "mean_price": 27.9096,
+    "sold_units": 2
+  },
+  {
+    "product_id": "6cdd53843498f92890544667809f1595",
+    "mean_price": 350.8346153846,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4fe644d766c7566dbc46fb851363cb3b",
+    "mean_price": 100.9693457944,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c5b72065154ec27c2d1ed8a654c3348f",
+    "mean_price": 190.04,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4f3b83b83f7fb280fca4f90ba502f50e",
+    "mean_price": 99.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4cb6e86e1328e77e20b5f90771683cbe",
+    "mean_price": 104.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2e1963427978dab49b4bcb0a07b109cc",
+    "mean_price": 79.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8ec7eb9f181b55edfe7d45092c37a3ef",
+    "mean_price": 62.7042857143,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c4989935ece6a2e0c0c148ede45f640e",
+    "mean_price": 419.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "11a0fdc4251f15bb96dbfff7ef5475eb",
+    "mean_price": 299.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b5adf7b72a7eb667aafd446581c35f3f",
+    "mean_price": 223.22,
+    "sold_units": 1
+  },
+  {
+    "product_id": "183c95ad186f48c320bbac4643829d3f",
+    "mean_price": 49.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "abc3432ff825d8e524db1d4eac6d2099",
+    "mean_price": 39.9841935484,
+    "sold_units": 1
+  },
+  {
+    "product_id": "76d1a1a9d21ab677a61c3ae34b1b352f",
+    "mean_price": 178.52,
+    "sold_units": 2
+  },
+  {
+    "product_id": "9dae52e79d63184a0b32da87c5aabecf",
+    "mean_price": 132.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "65e3848513c9ab70bf542e5d694cf072",
+    "mean_price": 36.85,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a9516a079e37a9c9c36b9b78b10169e8",
+    "mean_price": 119.3628813559,
+    "sold_units": 2
+  },
+  {
+    "product_id": "fb78b116998a9911245664c7823e1a95",
+    "mean_price": 94.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9ecadb84c81da840dbf3564378b586e9",
+    "mean_price": 36.1644329897,
+    "sold_units": 3
+  },
+  {
+    "product_id": "f2b67cf6ef88cbc9c2f3e482f558b318",
+    "mean_price": 96.5666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7c6ff274f0411bde88f5df8db5f64693",
+    "mean_price": 173.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fbb1cfc2810efabf3235eccf4530f4ae",
+    "mean_price": 44.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2bd9b51a9ab079e095aca987845d3266",
+    "mean_price": 77.16,
+    "sold_units": 1
+  },
+  {
+    "product_id": "53759a2ecddad2bb87a079a1f1519f73",
+    "mean_price": 54.6573726542,
+    "sold_units": 3
+  },
+  {
+    "product_id": "d6bbda35f0b8505c2f824f1d90295855",
+    "mean_price": 55.6446666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "013ee64977aaa6b2b25475095162e0e9",
+    "mean_price": 69.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "677d8ace413e0060fa8686cde56eaf10",
+    "mean_price": 244.3,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2fd91ba79b5f4f8342b67bd79cb54b3f",
+    "mean_price": 39.978,
+    "sold_units": 4
+  },
+  {
+    "product_id": "35afc973633aaeb6b877ff57b2793310",
+    "mean_price": 87.7872121212,
+    "sold_units": 2
+  },
+  {
+    "product_id": "7d88f23682af2fc7db5484b6e41f8993",
+    "mean_price": 38.4,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b18fa799c2e098abdceb194c359938f6",
+    "mean_price": 69.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2a2d22ae30e026f1893083c8405ca522",
+    "mean_price": 142.15,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ec2d43cc59763ec91694573b31f1c29a",
+    "mean_price": 45.8913740458,
+    "sold_units": 2
+  },
+  {
+    "product_id": "69c5919a1b057b3d3d8b58f3b9b4b89d",
+    "mean_price": 71.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d6dc2dcbb3ef25e47ef82f3c013ab820",
+    "mean_price": 227.1,
+    "sold_units": 1
+  },
+  {
+    "product_id": "817e1c2d22418c36386406ccacfa53e8",
+    "mean_price": 163.6875,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b69eb25e3a4def8e9cddee18712e0c5e",
+    "mean_price": 200.6666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b532349fe46b38fbc7bb3914c1bdae07",
+    "mean_price": 36.4621893491,
+    "sold_units": 6
+  },
+  {
+    "product_id": "4e64dbe0b03dc0aba80f28b0b922c6b6",
+    "mean_price": 49.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "583f158587cdecda3e8bdea694021e39",
+    "mean_price": 45.3333333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9b08a09bf2fd9731cfca8cb3db24457c",
+    "mean_price": 39.97,
+    "sold_units": 3
+  },
+  {
+    "product_id": "9fb9a39f2e393018aaeb432394aff48f",
+    "mean_price": 149.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "01ff1ff8aa5dec93e9938b989393a4ca",
+    "mean_price": 52.9142857143,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b74cc46deca5ba8f6a2226df8041a0b7",
+    "mean_price": 146.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e583bb5fa3cb1e876a6ea48f21dfef34",
+    "mean_price": 22.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5d422bd54b54307ff7a5e770f40946e4",
+    "mean_price": 11.9,
+    "sold_units": 2
+  },
+  {
+    "product_id": "eb551aa4ed7eb5e2839d5b7d2896bece",
+    "mean_price": 19.49,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8afee64dc809d5e833ae113a81774ddc",
+    "mean_price": 7.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "940d38f0ef286bd93612fcdc91dd38ed",
+    "mean_price": 85.14,
+    "sold_units": 1
+  },
+  {
+    "product_id": "54d9ac713e253fa1fae9c8003b011c2a",
+    "mean_price": 32.0745614035,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a157e6178c6f7a8355999fa9cb3d136e",
+    "mean_price": 18.25,
+    "sold_units": 1
+  },
+  {
+    "product_id": "cd4b1bc1c7c94fdcd94b2a7a87eeb050",
+    "mean_price": 135.3333333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1491a8ff192d4b5c369b0eaa2fe33ee5",
+    "mean_price": 203.5876,
+    "sold_units": 2
+  },
+  {
+    "product_id": "bb1fe952bdc16ef8974d4ca11aec19b7",
+    "mean_price": 154.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b22658be72921a967a7d592dfc61e54e",
+    "mean_price": 299.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2c3210fa1dfe1fdf8b8e3254287c9e4c",
+    "mean_price": 126.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "96f608a5fe010cb34dc25baee3274444",
+    "mean_price": 49.89,
+    "sold_units": 1
+  },
+  {
+    "product_id": "93a99b40878c0d888fa4f44459fcac05",
+    "mean_price": 8.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "810e2944bca9850b934e1570ba372e7d",
+    "mean_price": 78.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "447934cd014b033280977350b730d892",
+    "mean_price": 229.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "475af23239b1120761482ea242b1a271",
+    "mean_price": 94.4,
+    "sold_units": 1
+  },
+  {
+    "product_id": "81825b8f118d301ef4933de64545b307",
+    "mean_price": 165.0,
+    "sold_units": 2
+  },
+  {
+    "product_id": "873ecb2fd02d35f52e5820550e538e72",
+    "mean_price": 199.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b5e13c9a353102f79c6206ff5cb61a50",
+    "mean_price": 85.8340659341,
+    "sold_units": 1
+  },
+  {
+    "product_id": "315affd5901833621c947264eb9f2588",
+    "mean_price": 136.415,
+    "sold_units": 1
+  },
+  {
+    "product_id": "0bdb7583b74c0323d413497fab3f2a3c",
+    "mean_price": 27.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6ff1fc9209c7854704a4f75c9fac41b4",
+    "mean_price": 25.8333333333,
+    "sold_units": 4
+  },
+  {
+    "product_id": "0f0c4960b05d6145bbb4b348423503ef",
+    "mean_price": 43.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a9028257171c93a8d948ff95a0082b0d",
+    "mean_price": 27.4857142857,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ff5d87897ed26d564711df324b98ebee",
+    "mean_price": 274.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9f14f401fce2d9ddd450e7ce60cb7f5f",
+    "mean_price": 11.702,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d04bbac48960ecb7ea311b00ca6e1cb7",
+    "mean_price": 104.7073170732,
+    "sold_units": 1
+  },
+  {
+    "product_id": "20c26b058070cf8c6bbb8c8943eea98c",
+    "mean_price": 59.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fea7f0c147905a41ca324c0e3234a4c7",
+    "mean_price": 110.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "24e8c79f39c68fbdbd57a5813ae72b94",
+    "mean_price": 73.9666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8d7ab3701456fdbfe2526636ce15327a",
+    "mean_price": 39.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "3fe46d73f7527ad59e36c21c3e783041",
+    "mean_price": 249.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "79c0ace2ccf0da036e787875a49151a4",
+    "mean_price": 383.0588235294,
+    "sold_units": 2
+  },
+  {
+    "product_id": "9f69acd4da62618a3f6365b732d00ccd",
+    "mean_price": 33.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d67212d63e76d57ee86cec463681f842",
+    "mean_price": 208.1,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ea11e700a343582ad56e4c70e966cb36",
+    "mean_price": 593.36,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c31539851232e3accbf0ef4c571f97f2",
+    "mean_price": 52.5,
+    "sold_units": 2
+  },
+  {
+    "product_id": "cdb8d3c880b6639a70764c6734e6bb69",
+    "mean_price": 66.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a6cef514bc1c722ff447863e87e4d77d",
+    "mean_price": 127.48,
+    "sold_units": 1
+  },
+  {
+    "product_id": "19c91ef95d509ea33eda93495c4d3481",
+    "mean_price": 121.0861538462,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e8ca1ff2d0a28edb5be8bfbf2964dc3a",
+    "mean_price": 48.3111111111,
+    "sold_units": 2
+  },
+  {
+    "product_id": "3cb39171fd36c50097f2dedbbe0dfe6e",
+    "mean_price": 29.6248837209,
+    "sold_units": 2
+  },
+  {
+    "product_id": "b8a0d73b2a06e7910d9864dccdb0cda2",
+    "mean_price": 63.1352941176,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9351b1e4334769dc0abe871ee3c7abc3",
+    "mean_price": 67.6333333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "dbd55362ec13c706503b1c71a5068a1a",
+    "mean_price": 102.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6a8631b72a2f8729b91514db87e771c0",
+    "mean_price": 26.6419354839,
+    "sold_units": 1
+  },
+  {
+    "product_id": "dc2410804cf782c5d87dbcd201b74e9b",
+    "mean_price": 166.7272727273,
+    "sold_units": 1
+  },
+  {
+    "product_id": "766a6a4c51c63991e78e192d802787a9",
+    "mean_price": 389.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ca815d1a82897d9d4503e2e367931d03",
+    "mean_price": 119.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2c2491f31fe7320124ccf2f3404354a6",
+    "mean_price": 27.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c1617123e66d2491ca93ceadfd36203e",
+    "mean_price": 52.8471428571,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f5cb4f19ca215fb34aef190918d45f46",
+    "mean_price": 87.3409090909,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ca7966fa77959536468be3c6ce1f19e1",
+    "mean_price": 899.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "913eefa4eb54c8a9bcb9871dfd94a0ca",
+    "mean_price": 120.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "3cc842aabeddd8ef0d633a10ef8a51aa",
+    "mean_price": 279.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "dea3de7c4e7aa375d564fa2ddb7099b7",
+    "mean_price": 59.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4cb33e9787e8a38b82bd68e70f5f4700",
+    "mean_price": 234.39,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b67a7d0ef75f52b4b76368927a3037f9",
+    "mean_price": 249.48,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d33a74e1b6cfc152b6b3f43324d54987",
+    "mean_price": 14.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8d1224321dc883703df71dcb5be296b3",
+    "mean_price": 109.73,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b60856ce32d90658dbf99b9485327c25",
+    "mean_price": 9.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6eda94acf0ad08a1bb12f10aef74767d",
+    "mean_price": 239.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "98f34b46fd3c8edec3b0e453e0095e77",
+    "mean_price": 13.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "242ec3ff603c92ddc1e59d83b9e40a2d",
+    "mean_price": 26.6633333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9cd17b1cc8db0de6b175f213e9054c01",
+    "mean_price": 189.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "aa8d88eb4b9cb38894e33fa624c4287f",
+    "mean_price": 54.9090909091,
+    "sold_units": 2
+  },
+  {
+    "product_id": "caa1675deee5711b3aff1e4f5946266f",
+    "mean_price": 59.43,
+    "sold_units": 1
+  },
+  {
+    "product_id": "eb3569b5cae58e2c6f616f86d3fcd507",
+    "mean_price": 99.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "176faef125e3675b4eeaa6083ada61e1",
+    "mean_price": 24.6566666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "10dae91e0aba95747e90280edeffe883",
+    "mean_price": 25.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "629e019a6f298a83aeecc7877964f935",
+    "mean_price": 111.4540540541,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b0961721fd839e9982420e807758a2a6",
+    "mean_price": 57.7456692913,
+    "sold_units": 2
+  },
+  {
+    "product_id": "0bcc3eeca39e1064258aa1e932269894",
+    "mean_price": 54.0947826087,
+    "sold_units": 1
+  },
+  {
+    "product_id": "87cc2aef12eddf0b170234138b0946e0",
+    "mean_price": 185.81,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d5bbfcd27daa6365834ed9d16195d64e",
+    "mean_price": 501.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "93c902b021a9e594f658ab1b0351602a",
+    "mean_price": 100.1816901408,
+    "sold_units": 3
+  },
+  {
+    "product_id": "09fbb9fc5bffc1ce6dc2f66289dfcb05",
+    "mean_price": 76.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "cd59f488cef311feb633141ad1e8563d",
+    "mean_price": 15.32,
+    "sold_units": 1
+  },
+  {
+    "product_id": "07c055536ebf10dfbb6c6db6dbfc36e5",
+    "mean_price": 45.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "741a31499a578979be85db7f80139e62",
+    "mean_price": 45.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8338cef8355d238f43711dcb9c0657b2",
+    "mean_price": 45.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "422879e10f46682990de24d770e7f83d",
+    "mean_price": 54.9116115702,
+    "sold_units": 5
+  },
+  {
+    "product_id": "0ce1e35bdc6af7e582e7ef9363e29b5b",
+    "mean_price": 17.3233333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "aede48631330269f65a8d680de491657",
+    "mean_price": 89.3117647059,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5637032095493f280eae8d9da00da6f1",
+    "mean_price": 49.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e3a23a99f074226ad690393a840c3244",
+    "mean_price": 54.9975,
+    "sold_units": 1
+  },
+  {
+    "product_id": "0c7ec2b24166d57ac38a9db523711782",
+    "mean_price": 78.1,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5c699beec1e114bd15b35cf8d01ec6b5",
+    "mean_price": 81.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a04f52ded97b5530e8783e3c002b90f0",
+    "mean_price": 79.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8c0bd0d6526379599b74a3a006d4c124",
+    "mean_price": 27.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a9e9edb1bcac585bfbfa381ce40e5d99",
+    "mean_price": 1820.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5a6e53c3b4e8684b13388d6aa4afdf12",
+    "mean_price": 16.3050684932,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a4800b5d0f4850922208a6cefcffed51",
+    "mean_price": 255.9466666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c4baedd846ed09b85f78a781b522f126",
+    "mean_price": 100.5975167785,
+    "sold_units": 3
+  },
+  {
+    "product_id": "e9eebb8e8ba0fadb9020f8ba1c003b48",
+    "mean_price": 377.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "42a2bd596fda1baef5719cb74f73030c",
+    "mean_price": 91.8047619048,
+    "sold_units": 1
+  },
+  {
+    "product_id": "283dc451ad3918badb976d56ff887289",
+    "mean_price": 91.1121212121,
+    "sold_units": 1
+  },
+  {
+    "product_id": "cdd68c0ef3e507db79631336cf9ec285",
+    "mean_price": 68.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fc13bac52be6640d9a77f54894e2c0e6",
+    "mean_price": 29.03125,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d04857e7b4b708ee8b8b9921163edba3",
+    "mean_price": 70.5852380952,
+    "sold_units": 2
+  },
+  {
+    "product_id": "11875b30b49585209e608f40e8082e65",
+    "mean_price": 65.603030303,
+    "sold_units": 1
+  },
+  {
+    "product_id": "3354a4e684f5e7199f9407db70ccd92b",
+    "mean_price": 90.4066666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5c6a3e484e7aebf406c2045718dea406",
+    "mean_price": 97.5966666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "017692475c1c954ff597feda05131d73",
+    "mean_price": 14.1019230769,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1716ea399ed8ee62ba811e6f55180f45",
+    "mean_price": 3.49,
+    "sold_units": 2
+  },
+  {
+    "product_id": "81a3d1dc085d3226530f23cd4af5030b",
+    "mean_price": 32.2933333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a93ad122024312ca432da7f7b32474b4",
+    "mean_price": 66.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "306b0c58328826c0564cbc520787d508",
+    "mean_price": 89.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9ab817d90bc61ed772ffea01b4cdcdb6",
+    "mean_price": 155.6666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e2c3ed9aaddfd2312a6a5fe9b3ddadd3",
+    "mean_price": 99.19,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f2af004352a06a99dca765596240cbc3",
+    "mean_price": 34.8952380952,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4f2c53c9a1a7a00a247b351c1fdbed13",
+    "mean_price": 21.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8317b177579dd27ff068b83205e2169b",
+    "mean_price": 180.7426086957,
+    "sold_units": 1
+  },
+  {
+    "product_id": "bcac2cdcd851929a5caa3e1508d5abc9",
+    "mean_price": 109.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f2bcc887769f563eb4f126389e64715a",
+    "mean_price": 63.5666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2d4d78eecba060a7127c5f6a21cdb0c7",
+    "mean_price": 128.6988888889,
+    "sold_units": 1
+  },
+  {
+    "product_id": "54d7ad85b648d3cb2b7069ed446d7f35",
+    "mean_price": 156.3908695652,
+    "sold_units": 2
+  },
+  {
+    "product_id": "29427de7f8a9ee983d9dbc51cec569b4",
+    "mean_price": 99.2541237113,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6782d593f63105318f46bbf7633279bf",
+    "mean_price": 27.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d7cdea99e6f50310c242d02f16f1f63c",
+    "mean_price": 512.15,
+    "sold_units": 2
+  },
+  {
+    "product_id": "f77dd338d9f75229a09cbb9a18fd0c9a",
+    "mean_price": 25.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f9471562478eba8761bc985b968a0092",
+    "mean_price": 58.6625,
+    "sold_units": 4
+  },
+  {
+    "product_id": "ed08ea04c92f5f434c2362f7310fb328",
+    "mean_price": 5.53,
+    "sold_units": 5
+  },
+  {
+    "product_id": "e1fad996d18315862e15d09446c5c65d",
+    "mean_price": 127.45,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b0ed7fe63babb3e705115f53fa74b20c",
+    "mean_price": 28.4,
+    "sold_units": 1
+  },
+  {
+    "product_id": "145978af3e89b318be0b717a0953649a",
+    "mean_price": 20.7615384615,
+    "sold_units": 2
+  },
+  {
+    "product_id": "8ef8561be5799da29925c5baaf083a13",
+    "mean_price": 135.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "33f789f4b4fa74053af0199658b78853",
+    "mean_price": 30.0,
+    "sold_units": 2
+  },
+  {
+    "product_id": "394b16cd32e9f883365dd7ebac4edbe0",
+    "mean_price": 14.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "363218ba55c610b750224f90bdd34be1",
+    "mean_price": 80.5038372093,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c9bd28e8a4220af0723c7b7f97778681",
+    "mean_price": 129.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6e77b89d36e50217e6793780a8ce5c82",
+    "mean_price": 36.7519047619,
+    "sold_units": 1
+  },
+  {
+    "product_id": "586328f570ac0b651d452f1227db4d1c",
+    "mean_price": 79.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9bde344a67494559d37249506076d638",
+    "mean_price": 219.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "cdc4af478fef19f03f1d0353c00271cd",
+    "mean_price": 27.5470588235,
+    "sold_units": 1
+  },
+  {
+    "product_id": "98d61056e0568ba048e5d78038790e77",
+    "mean_price": 167.2210526316,
+    "sold_units": 1
+  },
+  {
+    "product_id": "060cb19345d90064d1015407193c233d",
+    "mean_price": 146.7615384615,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fb19ac22e32dfecea21afbdde4b97b5f",
+    "mean_price": 221.8214285714,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5f504b3a1c75b73d6151be81eb05bdc9",
+    "mean_price": 598.9507936508,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5411e9269501a870cabf632f05655131",
+    "mean_price": 118.8701298701,
+    "sold_units": 1
+  },
+  {
+    "product_id": "83b23a333b811855258c5ec9431f6d3e",
+    "mean_price": 16.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a00722035cea70bbf671b758459cde42",
+    "mean_price": 189.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "91b08d34d0ba4db44da2dc382867ba49",
+    "mean_price": 10.9725806452,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6ed0ed10d62b45f3de46933b0b2989a6",
+    "mean_price": 109.4555555556,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2136c70bbe723d338fab53da3c03e6dc",
+    "mean_price": 29.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d36d9ea1497c1e294498cc39df08a687",
+    "mean_price": 159.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2fc7741cb6ea76e7164f448adc44652d",
+    "mean_price": 59.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "78b7b1ff2d3f06a589354ddf2f4f9db3",
+    "mean_price": 292.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a0eccc912d428eaddf1ef4fe47593ece",
+    "mean_price": 143.0,
+    "sold_units": 2
+  },
+  {
+    "product_id": "6f7400c1577bd99fb7c9cd196edb6ae2",
+    "mean_price": 99.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f0af7ec9760e53f21277444f32ee3308",
+    "mean_price": 99.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b92421ea3b457d6bb68c49f39d4e97a8",
+    "mean_price": 32.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9a060643636bd1e41788cb32262ac9ef",
+    "mean_price": 15.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9391a573abe00141c56e38d84d7d5b3b",
+    "mean_price": 230.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6fc983af1a5229efebcc40ab26d6226c",
+    "mean_price": 79.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b59b5899ecf4bcc294a72fdd48adaa94",
+    "mean_price": 29.865,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c6ea63369936552872ae890c82175b4b",
+    "mean_price": 200.0397727273,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7c1bd920dbdf22470b68bde975dd3ccf",
+    "mean_price": 60.028961039,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9d8a0e115e802d845b4ce1eb794d1260",
+    "mean_price": 120.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "94976cc078d10e74c19c62f0b3b52432",
+    "mean_price": 140.4285714286,
+    "sold_units": 1
+  },
+  {
+    "product_id": "521a361808bedd9fffb32181e501e09b",
+    "mean_price": 149.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "159e7e73295b609960c0797eb64b3d39",
+    "mean_price": 139.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "304104a478e3a605db6072a22e4ee228",
+    "mean_price": 299.0,
+    "sold_units": 2
+  },
+  {
+    "product_id": "6c321ed0f47858a8650f4104771224b5",
+    "mean_price": 49.0,
+    "sold_units": 2
+  },
+  {
+    "product_id": "566d15b940c0d5e7a0a37c82b8ce353f",
+    "mean_price": 121.72,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9aed412277ca4485a7bf6e0c53e65786",
+    "mean_price": 35.95,
+    "sold_units": 1
+  },
+  {
+    "product_id": "68bfdbfe84f03af17733b10362f10020",
+    "mean_price": 45.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b1cbf530dc2a793ced8e0768ffcce501",
+    "mean_price": 45.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "429de6049b45a9fcb96aff1603f55d3c",
+    "mean_price": 29.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b0cd550945da1de6eb9cb69595d540df",
+    "mean_price": 84.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6de2587eae9fb1ee54a853aac774ade1",
+    "mean_price": 34.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "42a2c92a0979a949ca4ea89ec5c7b934",
+    "mean_price": 59.3994535519,
+    "sold_units": 1
+  },
+  {
+    "product_id": "68bf2e76db1d8e846042e54da87399ca",
+    "mean_price": 77.8285714286,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b3145c36d221143053908beb4564bad9",
+    "mean_price": 64.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7a10781637204d8d10485c71a6108a2e",
+    "mean_price": 213.0594405594,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fbd4031ddbc3d02b95834b62769d3ad0",
+    "mean_price": 136.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "33a8f9ff2a9a41c0c49a24d12e106151",
+    "mean_price": 30.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f71f42e2381752836563b70beb542f80",
+    "mean_price": 32.0428571429,
+    "sold_units": 2
+  },
+  {
+    "product_id": "f399bbedb1d21192dffefc4a8b30a229",
+    "mean_price": 72.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e0bb3159111d86828b5caef8725ff055",
+    "mean_price": 101.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7088744b00831b410bd17716cb578f39",
+    "mean_price": 34.6785714286,
+    "sold_units": 2
+  },
+  {
+    "product_id": "ea3be87c5c6c69043c9eb7836199c200",
+    "mean_price": 59.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "382132cf96c88a277a65226833af5f61",
+    "mean_price": 56.5666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e988092a8afe5d9393a5c3a7ca17691c",
+    "mean_price": 52.55,
+    "sold_units": 2
+  },
+  {
+    "product_id": "609c35bf8122d5ab8186ed7a6bfcd843",
+    "mean_price": 7.5,
+    "sold_units": 2
+  },
+  {
+    "product_id": "f42892b40225227fe465626ff509a92e",
+    "mean_price": 89.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "83309bfd8eef19fbfaa8e790b824b572",
+    "mean_price": 76.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "060c17562f97e5bb60bc0dfa4dd5b3f2",
+    "mean_price": 24.9373684211,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c9c6fde711572c1ad99ca12728c6af00",
+    "mean_price": 30.7494936709,
+    "sold_units": 1
+  },
+  {
+    "product_id": "bc74f63361c15c1a5baa5b97ac432e62",
+    "mean_price": 220.312173913,
+    "sold_units": 1
+  },
+  {
+    "product_id": "59089e1668cc247d055ca3f9149093fc",
+    "mean_price": 144.15,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f4d705aa95ccca448e5b0deb6e5290ba",
+    "mean_price": 24.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "372124d6931c4bc48dd0d56075ebee7c",
+    "mean_price": 24.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "861857117917aaa99611defcc0d514cd",
+    "mean_price": 173.7142857143,
+    "sold_units": 1
+  },
+  {
+    "product_id": "656d923048a96be8ec0da05d7b71aa28",
+    "mean_price": 43.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "3d1d7aa3dfc91ac9490303d6c7342e83",
+    "mean_price": 189.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7272a36ac93b0f214500840025f04a73",
+    "mean_price": 14.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "bbaef2eadf31fe3ea6702077398be06c",
+    "mean_price": 56.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "aa8627a375771ab01288705307ec4ae5",
+    "mean_price": 75.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "12bc892d6fff0dc42c8177f3665ef00e",
+    "mean_price": 33.33,
+    "sold_units": 2
+  },
+  {
+    "product_id": "2de4aa76a72feaca51fc8f83ae037c7e",
+    "mean_price": 43.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "50d77758742285ff49f340ebdf0df5a7",
+    "mean_price": 26.52,
+    "sold_units": 1
+  },
+  {
+    "product_id": "436c8d57ff8d4aa254318e9bd9b48c83",
+    "mean_price": 56.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6ed58ce8373b3d0c7704df9daf21e4d8",
+    "mean_price": 66.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d537e54e990d95194a5733e79f1af1aa",
+    "mean_price": 139.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ead72457c58dcea14f94c2223c684716",
+    "mean_price": 139.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "3c949f7dabf571691248f935a0063fbd",
+    "mean_price": 56.8,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1fa52682d6938b129312ef4cffac1711",
+    "mean_price": 164.7,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ccadfeab525a9eb1569983b66e5075c4",
+    "mean_price": 84.9375,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fe01b643060a6446e59f58e3021e66b3",
+    "mean_price": 140.4043478261,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9c98b59719a74f32903537bc5c9262ce",
+    "mean_price": 139.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "01a88bd2633c52bcc66348307cb3ae15",
+    "mean_price": 359.98,
+    "sold_units": 2
+  },
+  {
+    "product_id": "ddceb6eef6af67e9fbbd4c148dbe5fd9",
+    "mean_price": 212.3986538462,
+    "sold_units": 1
+  },
+  {
+    "product_id": "cee4ebfc997a2ac7f01145efb59cc7be",
+    "mean_price": 156.5666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "26c3ead5dff3d8e393e5331273f4e91a",
+    "mean_price": 44.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "34194988e78bc60417003c8a235b8083",
+    "mean_price": 195.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f646af315b0f3a597f69213537ca2199",
+    "mean_price": 49.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "71f2ce4ae5dfdd3b55a51c7a2d3c4da8",
+    "mean_price": 579.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2b0ee2d07306f7c9ac55a43166e9bb4b",
+    "mean_price": 59.99,
+    "sold_units": 2
+  },
+  {
+    "product_id": "6592908f0a4f6e2de91310126cd1b08d",
+    "mean_price": 399.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7bcf2266b78ccc737b8f26f925d3c5d4",
+    "mean_price": 43.3705882353,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b8fb835549196ef18695839a1a749584",
+    "mean_price": 320.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e9a69340883a438c3f91739d14d3a56d",
+    "mean_price": 166.6622413793,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6987398dff454a3138231540e2a6ec61",
+    "mean_price": 141.69625,
+    "sold_units": 1
+  },
+  {
+    "product_id": "138d7037b59dcee052810952c983033b",
+    "mean_price": 153.25,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2028bf1b01cafb2d2b1901fca4083222",
+    "mean_price": 55.6204347826,
+    "sold_units": 1
+  },
+  {
+    "product_id": "83b92639fffd1d55c9e04c77c86d8d2c",
+    "mean_price": 80.7530769231,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5ce6a6914bbb228f4cb4ee93c1cd0d15",
+    "mean_price": 349.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b00a32a0b42fd65efb58a5822009f629",
+    "mean_price": 78.0818181818,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f71973c922ccaab05514a36a8bc741b8",
+    "mean_price": 102.886,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5d0386961a44323a9772e63672317131",
+    "mean_price": 99.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "eb6c2ecde53034fc9ec47741b3232c9d",
+    "mean_price": 33.8514285714,
+    "sold_units": 2
+  },
+  {
+    "product_id": "53ea9da485f6aed8a6f03a85831fe021",
+    "mean_price": 257.1464102564,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ead9ade61e81ab9e26d83640c3164e76",
+    "mean_price": 152.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "64fb265487de2238627ce43fe8a67efc",
+    "mean_price": 91.2812,
+    "sold_units": 1
+  },
+  {
+    "product_id": "632fe3d92c45b5c83f4102fadd94ee92",
+    "mean_price": 138.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f3dadec221142e379d7113915c1d0fa8",
+    "mean_price": 51.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8c4456c061013adccb1ba4cbce2d0365",
+    "mean_price": 738.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a0eef953cb25bc9ae40457e1c3c82946",
+    "mean_price": 69.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "152397b614be35e54106663bd5671f7d",
+    "mean_price": 560.75,
+    "sold_units": 3
+  },
+  {
+    "product_id": "ecd7770e1f7f64ee8c295da808d2ce5b",
+    "mean_price": 79.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b0141fc41043ae23a16677f3a7e282b3",
+    "mean_price": 139.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "092efe1dbcc1a4752b17a19fb6de36dc",
+    "mean_price": 154.94,
+    "sold_units": 1
+  },
+  {
+    "product_id": "431d674f9a4fbd0957ecf6ba3fcb6899",
+    "mean_price": 279.5930188679,
+    "sold_units": 1
+  },
+  {
+    "product_id": "77e8ff91e2cccad62b30a0a83bec431e",
+    "mean_price": 168.8,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f361fccba568fabe00db466f80626d1e",
+    "mean_price": 16.1268181818,
+    "sold_units": 1
+  },
+  {
+    "product_id": "84bc1370758fa98d08afd0180818217a",
+    "mean_price": 199.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "18692fdc7adb29c885d8cb84eb68a97e",
+    "mean_price": 187.2,
+    "sold_units": 1
+  },
+  {
+    "product_id": "036734b5a58d5d4f46b0616ddc047ced",
+    "mean_price": 35.8122222222,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b5c114b11d53b6fd85a6a90790f0b479",
+    "mean_price": 42.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c7fd13b5e515bffdab855d0812842edb",
+    "mean_price": 68.8432692308,
+    "sold_units": 2
+  },
+  {
+    "product_id": "0e362037e5f02f62c8ce89f49cb9d520",
+    "mean_price": 39.6,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e7db7c40ea6647c808d48581f1308d88",
+    "mean_price": 109.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d2f5484cbffe4ca766301b21ab9246dd",
+    "mean_price": 12.88,
+    "sold_units": 1
+  },
+  {
+    "product_id": "448f0791c4d2fc5d250a401edfc208d4",
+    "mean_price": 309.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "84f5c4f480ad6c9998d6a6860f1a2e41",
+    "mean_price": 41.165,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e82773dd03318132e509b6330c868c7f",
+    "mean_price": 84.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "423a6644f0aa529e8828ff1f91003690",
+    "mean_price": 446.8333333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a659cb33082b851fb87a33af8f0fff29",
+    "mean_price": 88.5956521739,
+    "sold_units": 2
+  },
+  {
+    "product_id": "6b6b162b177d0f36987993aecbe1c65f",
+    "mean_price": 109.99,
+    "sold_units": 2
+  },
+  {
+    "product_id": "3fae92f8d0ebb3317991934a6d717c47",
+    "mean_price": 59.495,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9b02b650be0a39d8590be7d35be443f9",
+    "mean_price": 59.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "3a7612c720a4b764c4fb87633a7ebc88",
+    "mean_price": 99.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b1551ef44e04265b510840b991b24b51",
+    "mean_price": 79.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4fb3e6ce442ce9c621ea9509e47ac951",
+    "mean_price": 106.0769230769,
+    "sold_units": 1
+  },
+  {
+    "product_id": "11dcc970f7a5581e1bf777b6da3f7096",
+    "mean_price": 69.4882352941,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e350532acfc2ee911b6dcf1029dcb48d",
+    "mean_price": 110.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f9b0ee95ce8b1ef8b50eecc5e0fa4348",
+    "mean_price": 27.26,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a2f0a41fa03da98fd19e20d996462cc8",
+    "mean_price": 39.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "78c3942245093508f8e17ffc06a0dfcf",
+    "mean_price": 35.3233333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "81efaa22f3868f00c8ef1879cccc3c03",
+    "mean_price": 46.55,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f24bb438da3185d5fd5a19e4d7433827",
+    "mean_price": 629.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ba47e9a1c96e01fc866a0b30f9c78e00",
+    "mean_price": 117.2333333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f2e53dd1670f3c376518263b3f71424d",
+    "mean_price": 109.2125,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fb060ad9a8625b626189641799bccf89",
+    "mean_price": 44.6,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d6fe3b4ddecd4a8393c6a1385de3bfb6",
+    "mean_price": 198.7151612903,
+    "sold_units": 3
+  },
+  {
+    "product_id": "2629c2e1e3a0b360912763741f1bb7ef",
+    "mean_price": 62.0428571429,
+    "sold_units": 2
+  },
+  {
+    "product_id": "cd48f265a63e13b762601f5f794c5fca",
+    "mean_price": 49.2661290323,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d84895a804248d73a16480c0b2e18604",
+    "mean_price": 158.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "476f613bc92f3a20cf80a586fa45a232",
+    "mean_price": 39.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9ddc4249779322828f89d2a9c04f7ee1",
+    "mean_price": 107.1017647059,
+    "sold_units": 1
+  },
+  {
+    "product_id": "28beefcab28e6a3b659bae1bf1cbe453",
+    "mean_price": 26.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c8c969c3a6423f48df9fde8a13e6770b",
+    "mean_price": 21.99,
+    "sold_units": 2
+  },
+  {
+    "product_id": "fdb86e192fdd20037175daab38af9656",
+    "mean_price": 359.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ad88641611c35ebd59ecda07a9f17099",
+    "mean_price": 155.7010344828,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1bef08f119466a85a83919d5b80facd3",
+    "mean_price": 15.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "11bbef4e2a44601d9dd471aa1fb433e6",
+    "mean_price": 330.5163157895,
+    "sold_units": 1
+  },
+  {
+    "product_id": "41db6d8062fcd38410c699743ccc0265",
+    "mean_price": 14.9477777778,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8b41f2becf919f6177cca1ff15dfd311",
+    "mean_price": 103.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b042c934bd8f4316e7b38633aa14266b",
+    "mean_price": 109.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "10714d6a49c0af9ccdab2d806887c5f5",
+    "mean_price": 59.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "35ebf08a93899d44e756809e11b14754",
+    "mean_price": 16.3682222222,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8232a265a535c1f886b38335667be2a5",
+    "mean_price": 59.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d2e8130fbec52f5dac0571ea1993f28a",
+    "mean_price": 239.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4a300735bc293723103db0d0c1bc1585",
+    "mean_price": 71.7181818182,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e95fb3a80ca294f39de925b6428f3a32",
+    "mean_price": 78.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "639cacc61d50ee82079176b446399376",
+    "mean_price": 35.89,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7344630ca6c1a4917e55f35c729baa7d",
+    "mean_price": 17.4,
+    "sold_units": 1
+  },
+  {
+    "product_id": "edd087ed331c3ce178ec3489b9ecf117",
+    "mean_price": 288.6975,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7d50930301709838d8e90dcac5cfaa84",
+    "mean_price": 59.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5bd6493a2d5a384987386f2696bae33d",
+    "mean_price": 18.9618181818,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ef5c31aee1d5074121a478b14d3eb50e",
+    "mean_price": 81.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8dfb2df51786c583001deb21b4a94080",
+    "mean_price": 398.0,
+    "sold_units": 2
+  },
+  {
+    "product_id": "e76438822c17316d276c27e52e588931",
+    "mean_price": 24.89,
+    "sold_units": 1
+  },
+  {
+    "product_id": "bb42f37fc3d9130e4a4339d24a47dd7c",
+    "mean_price": 44.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "415dfa57292b8b7360d3f4cf2f9bff06",
+    "mean_price": 60.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9d0aa87e8df1bdbe0f79353520a2d538",
+    "mean_price": 35.6585714286,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2ccd049c8e7ea210e079a1aa8ad92477",
+    "mean_price": 78.0909090909,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c30af44af15fb162e1ee0233c7e5d583",
+    "mean_price": 73.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ce6f74096c84567f22728c84f3d6e7fc",
+    "mean_price": 111.775,
+    "sold_units": 1
+  },
+  {
+    "product_id": "57fcacc3434a1f2f2b039c1b4e61f5e1",
+    "mean_price": 18.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e2acf075e3634e6f0c26e4e88c1bf9d7",
+    "mean_price": 329.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "266f0c6925e7873790f11b920c701190",
+    "mean_price": 15.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "98c2f7da94217786e372e7d85462c354",
+    "mean_price": 75.25,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ff96895c6b1d31f34b2d82f86670fa85",
+    "mean_price": 197.4,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8828464e34fc3da3892f568218e14d61",
+    "mean_price": 41.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "33e77eecc23c25a65d10f627e5053617",
+    "mean_price": 122.3828571429,
+    "sold_units": 2
+  },
+  {
+    "product_id": "7ce94ab189134e2d3c05f496d635419c",
+    "mean_price": 13.65,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d9bba71d1d1ad35925593d365a2ab43e",
+    "mean_price": 52.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d99a9035db5875b38e59f9f55b9548f1",
+    "mean_price": 229.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8d39a63db6a98e40571f486e0c711cf7",
+    "mean_price": 139.7,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c19d5ba108c34b8255cf9a524da92bc4",
+    "mean_price": 77.6470588235,
+    "sold_units": 1
+  },
+  {
+    "product_id": "776b3debbda0734131d6046fca2cd957",
+    "mean_price": 48.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b1434a8f79cb3528540d9b21e686e823",
+    "mean_price": 151.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "69ae578cb2e84390bb7c44216380ad5e",
+    "mean_price": 69.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9da0bebb7f9168679e748abbfad05edd",
+    "mean_price": 29.3,
+    "sold_units": 1
+  },
+  {
+    "product_id": "87aff1d9a5e94db6840c5b963a5cef90",
+    "mean_price": 140.96,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1357d7d30c1609c50ad43a42a204286c",
+    "mean_price": 79.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "05542c6ab7bce0a01a5f7210380e72b3",
+    "mean_price": 92.65,
+    "sold_units": 2
+  },
+  {
+    "product_id": "2381a3052dd37f97e616bf160467acae",
+    "mean_price": 150.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "165948b2c41e846df7d09b56826a747f",
+    "mean_price": 33.6,
+    "sold_units": 1
+  },
+  {
+    "product_id": "bbf920aa6ac72007a726e6f419156f8f",
+    "mean_price": 39.9,
+    "sold_units": 2
+  },
+  {
+    "product_id": "3006b8f5b476750a03137c1b2755cea1",
+    "mean_price": 134.894,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7d8e924f1da646ec896e1c0a80ef2f99",
+    "mean_price": 16.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b2572a992f6ea1d1a7eb518d54e64620",
+    "mean_price": 113.6272727273,
+    "sold_units": 1
+  },
+  {
+    "product_id": "035df2b15f358d231e00af9e62488cf4",
+    "mean_price": 51.4,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ca38c039b717207dec906f4fa9a21db7",
+    "mean_price": 184.1853333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "da7e1b2f8c91cbf61a22b55e8cd49bcd",
+    "mean_price": 76.1,
+    "sold_units": 1
+  },
+  {
+    "product_id": "40161099308e1f5f784d57e2b88b31b5",
+    "mean_price": 98.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "527e17a9217166ba1744ef81423887ba",
+    "mean_price": 49.9,
+    "sold_units": 2
+  },
+  {
+    "product_id": "3631b85819ccd66432f8e4b5fb568cf2",
+    "mean_price": 19.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "460a66fcc404a3d7306d5f50fcb2d18a",
+    "mean_price": 25.25,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f7ac498363699addc5ff78eadee46977",
+    "mean_price": 48.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "10717ff440b2320081989126e858b220",
+    "mean_price": 139.1864864865,
+    "sold_units": 1
+  },
+  {
+    "product_id": "32a99bb84ae79a55c0e446afc9310e1e",
+    "mean_price": 27.3,
+    "sold_units": 1
+  },
+  {
+    "product_id": "af56e0203193f066ed64cbbbbf95ae6a",
+    "mean_price": 89.1857142857,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1eb85357e22bf0c8c2a6f10eafad8423",
+    "mean_price": 293.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4c99d6df98c5f4960cae6fd9f8603bd3",
+    "mean_price": 46.3,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6b7de889f456ee35f031172d358b2cd2",
+    "mean_price": 135.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "30a47cc354b9607076272300c899dce9",
+    "mean_price": 55.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "be837f2e0152a208d4386f4126d5bd7c",
+    "mean_price": 32.8166666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9af7b4a3262141c12ba9bd489a8573c7",
+    "mean_price": 49.7571428571,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a92930c327948861c015c919a0bcb4a8",
+    "mean_price": 77.96875,
+    "sold_units": 1
+  },
+  {
+    "product_id": "473795a355d29305c3ea6b156833adf5",
+    "mean_price": 55.7409090909,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8bd822c04ee6a8292a7b0debc3dbd74a",
+    "mean_price": 99.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8877966d8f081b2857a5e293d6ecf59e",
+    "mean_price": 59.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d9d5e3c7a8d24dfb8968ba75e4313ac3",
+    "mean_price": 47.9166666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "330144665b875c2b4555f88d9f4ed7c1",
+    "mean_price": 198.3753846154,
+    "sold_units": 1
+  },
+  {
+    "product_id": "96bd76ec8810374ed1b65e291975717f",
+    "mean_price": 79.8,
+    "sold_units": 1
+  },
+  {
+    "product_id": "bb50f2e236e5eea0100680137654686c",
+    "mean_price": 327.6153846154,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c1cf8f51eac90b1ff478250b3d35c37b",
+    "mean_price": 32.0888888889,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d3d10495159bcc41173e3d26a273529a",
+    "mean_price": 48.65,
+    "sold_units": 1
+  },
+  {
+    "product_id": "839321c2db7b3b3eaff4944c3b052ecd",
+    "mean_price": 117.144,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a4a8ee739d3d5afba72490f748dcd0da",
+    "mean_price": 195.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f6fa93875f4a7dac03e0a22143f4d815",
+    "mean_price": 49.95,
+    "sold_units": 2
+  },
+  {
+    "product_id": "aadff88486740e0b0ebe2be6c09476ae",
+    "mean_price": 29.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "496f6bd86011e5a9ddea8dc96e802340",
+    "mean_price": 72.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c1488892604e4ba5cff5b4eb4d595400",
+    "mean_price": 38.6596428571,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e44f675b60b3a3a2453ec36421e06f0f",
+    "mean_price": 106.5369047619,
+    "sold_units": 1
+  },
+  {
+    "product_id": "43cc8e4d981bc04b9d78b12e8a908d41",
+    "mean_price": 1240.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "06f2166336faca73c644b11eaca22d06",
+    "mean_price": 105.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6d44b2c01b6843eb2e68beddf853dd82",
+    "mean_price": 28.74,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2a71952901bd77a33530d79a65b13747",
+    "mean_price": 39.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "de7034010d180a33f04a16b235281265",
+    "mean_price": 28.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d05d4a7430d1293367ba2ffbedcdef05",
+    "mean_price": 1799.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f731f8587d4088c174397e010cf892a9",
+    "mean_price": 56.8536666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6b017e0d95d8765a6f2bed3bc272c61e",
+    "mean_price": 59.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4debd977b5bc245487ec61b7961b16e3",
+    "mean_price": 12.67,
+    "sold_units": 1
+  },
+  {
+    "product_id": "dce4459168283eed926d7af76ba39e02",
+    "mean_price": 17.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2f5895fbda5cbf713513c5b641383a97",
+    "mean_price": 27.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4c2065301aac51ff9004422acc07765d",
+    "mean_price": 98.1257142857,
+    "sold_units": 1
+  },
+  {
+    "product_id": "3a77cc438baf789ed16b12b553ce504a",
+    "mean_price": 29.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4e6a8880f494b097db7cf4866e0209d8",
+    "mean_price": 72.6,
+    "sold_units": 1
+  },
+  {
+    "product_id": "bd07b66896d6f1494f5b86251848ced7",
+    "mean_price": 143.958,
+    "sold_units": 1
+  },
+  {
+    "product_id": "89e30d3452ed2e7f8d86803da7954f05",
+    "mean_price": 284.8,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a3bd84c2a6d25ea7bc0e55c64d0760ae",
+    "mean_price": 199.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "77f217636750a5d2e21017effe0a634d",
+    "mean_price": 125.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "cac52d956eff0cacf32f4b0f0f3aac5c",
+    "mean_price": 29.808,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b1d207586fca400a2370d50a9ba1da98",
+    "mean_price": 149.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "81e61097d1704e63a1d881c02d76934a",
+    "mean_price": 13.3,
+    "sold_units": 1
+  },
+  {
+    "product_id": "99aa268744e2967e0ed6d3b22a38eff2",
+    "mean_price": 89.275,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4befae07dba4384f6d8237ad1e7f8294",
+    "mean_price": 329.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "30ccf4724f5227265f837e9ba0246278",
+    "mean_price": 90.7857142857,
+    "sold_units": 1
+  },
+  {
+    "product_id": "acef497c1130f71ccfe63aaa1c9a607d",
+    "mean_price": 559.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "0c4e43e25f781898363a83f9a7390ebb",
+    "mean_price": 110.1625,
+    "sold_units": 3
+  },
+  {
+    "product_id": "b77f596e85780e540958a58d35836e96",
+    "mean_price": 25.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a19b6951c75da43aad691622dd2f6abe",
+    "mean_price": 35.448,
+    "sold_units": 2
+  },
+  {
+    "product_id": "f5badee8a0e679f057ec0ca4f0f32dcb",
+    "mean_price": 109.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "9048cbd294fe0c1a3ec8c8248bc2cadd",
+    "mean_price": 73.3666666667,
+    "sold_units": 1
+  },
+  {
+    "product_id": "db123b35396aafabb2d5b476557abed5",
+    "mean_price": 76.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6cc44821f36f3156c782da72dd634e47",
+    "mean_price": 100.1857142857,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7e99ab6d9d5d63b0190513103bdc1188",
+    "mean_price": 133.0,
+    "sold_units": 2
+  },
+  {
+    "product_id": "2155593e689475e40e4c8b93143c0287",
+    "mean_price": 35.2333333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e00d2c49504aeaf7acdc9ff7cf8a6107",
+    "mean_price": 249.99,
+    "sold_units": 2
+  },
+  {
+    "product_id": "6a595ba787e397469b1a147508f361a9",
+    "mean_price": 179.49,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a819714dd23a6ac18b1be2b13686017b",
+    "mean_price": 51.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "bdf752aa5ccd0dfb9e9ed401b672f133",
+    "mean_price": 84.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7535f3518e1009b17aa6e3fa553e82bc",
+    "mean_price": 479.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "729c55b4509d36c18b86f0bacc17ca5d",
+    "mean_price": 23.172,
+    "sold_units": 1
+  },
+  {
+    "product_id": "259bd66612b61aa4e82ce3cde9272bbc",
+    "mean_price": 28.8888888889,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f9b178c9fdc90bbcfbd6c6b49ed47d4c",
+    "mean_price": 70.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "aefd95d8fa48ead0bcdec7fb758daea0",
+    "mean_price": 22.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "84db874a1a2d895b0eece26cc9bb3dd3",
+    "mean_price": 49.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8b52d90d2e8716dad633486c6cc94ecf",
+    "mean_price": 989.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "7564c1759c04fc0a38f2aa84f7a370ee",
+    "mean_price": 44.1586363636,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8569e9a17c2b63e9e6e998dac2dfa533",
+    "mean_price": 42.3625,
+    "sold_units": 1
+  },
+  {
+    "product_id": "81b6c7c058add831803fcbba6dcc1df2",
+    "mean_price": 108.4714285714,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c4369b26f349bc301a680a89415b1344",
+    "mean_price": 99.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a0f12db60a5019ce1a4c21fce1697574",
+    "mean_price": 100.25,
+    "sold_units": 1
+  },
+  {
+    "product_id": "09738baf9be60e4c294fa5d0bfcc690d",
+    "mean_price": 57.2,
+    "sold_units": 1
+  },
+  {
+    "product_id": "20bc10f7f2776f8b2eb6b817d2df190a",
+    "mean_price": 29.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c92a761aaccfb831d4220d44648f260a",
+    "mean_price": 24.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4e0d01d5e5e4bd454e71e7cd1491c052",
+    "mean_price": 76.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "aed75ad669fbebd5a385ac7cc2ae7573",
+    "mean_price": 550.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "41b43381a92451746dc1374dbbd4c43e",
+    "mean_price": 154.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4100a608bd0aa524b06ffefba973707b",
+    "mean_price": 35.55,
+    "sold_units": 1
+  },
+  {
+    "product_id": "45f0310974e6082deeda855f91984347",
+    "mean_price": 126.5,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ddbcffa21df7d85a96fc395a6d9ca334",
+    "mean_price": 35.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "716586b5781e43926d404ad0f11669e8",
+    "mean_price": 89.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "165f86fe8b799a708a20ee4ba125c289",
+    "mean_price": 163.494587156,
+    "sold_units": 1
+  },
+  {
+    "product_id": "a3daee3915d4fb98376e039ede6bdea6",
+    "mean_price": 50.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "0cf573090c66bb30ac5e53c82bdb0403",
+    "mean_price": 53.6058823529,
+    "sold_units": 1
+  },
+  {
+    "product_id": "4dba4de4cd67ba2191c34468ac2ca841",
+    "mean_price": 38.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "784c94d1803e49492d2758907914b26c",
+    "mean_price": 109.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "73bc42701d50d3c0673b38ea8fbe2e32",
+    "mean_price": 250.7764285714,
+    "sold_units": 1
+  },
+  {
+    "product_id": "6b20221ff09d73c64c77d9d934b9904c",
+    "mean_price": 59.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5a9f5760be273f3c7994beec0dbee655",
+    "mean_price": 69.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "00ab8a8b9fe219511dc3f178c6d79698",
+    "mean_price": 91.24,
+    "sold_units": 1
+  },
+  {
+    "product_id": "fb55982be901439613a95940feefd9ee",
+    "mean_price": 80.7857142857,
+    "sold_units": 1
+  },
+  {
+    "product_id": "f1b067568bb39768f754b0d1ab1abcf6",
+    "mean_price": 92.3333333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "25f86162fee18735fffdb762dcb10d7c",
+    "mean_price": 153.6096774194,
+    "sold_units": 1
+  },
+  {
+    "product_id": "d918b3f4aa5272c2c3cd088d087ca069",
+    "mean_price": 134.2714285714,
+    "sold_units": 1
+  },
+  {
+    "product_id": "ab1f9387c0627dd24000bfbc54fdeee0",
+    "mean_price": 12.9005797101,
+    "sold_units": 1
+  },
+  {
+    "product_id": "338aa2ba639b0be9950da484aac036c4",
+    "mean_price": 46.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8983a3b149303c013fceabef902e835a",
+    "mean_price": 99.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "eae99ba0d11a9e56ddc878519bdb33b1",
+    "mean_price": 48.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "169e1fedd1319ca92e90e057e7123005",
+    "mean_price": 68.6830769231,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1e291c0c369924c39765c90de669e4b4",
+    "mean_price": 149.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "547b95702aec86f05ac37e61d164891c",
+    "mean_price": 120.0294117647,
+    "sold_units": 1
+  },
+  {
+    "product_id": "91c82ace62e0ca1b69b1a45bcc214b45",
+    "mean_price": 183.3877272727,
+    "sold_units": 1
+  },
+  {
+    "product_id": "c7b3b8509e06ae21abdd78b541215cda",
+    "mean_price": 121.9769230769,
+    "sold_units": 1
+  },
+  {
+    "product_id": "8f71fe1e1b5bbb6773e7276b5c37ef65",
+    "mean_price": 74.3,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5edf955f0c8417e3fea7288360c2e22d",
+    "mean_price": 17.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "188c9cb0aff9e485e3f84752731c633a",
+    "mean_price": 17.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2b10e945dae5434075c8bb2be0d17325",
+    "mean_price": 243.2333333333,
+    "sold_units": 1
+  },
+  {
+    "product_id": "eb53f94fdc60278efcef123bb275658a",
+    "mean_price": 282.4,
+    "sold_units": 1
+  },
+  {
+    "product_id": "372645c7439f9661fbbacfd129aa92ec",
+    "mean_price": 109.3827586207,
+    "sold_units": 1
+  },
+  {
+    "product_id": "525947dbe3304ac32bf51602f9557c12",
+    "mean_price": 111.15,
+    "sold_units": 1
+  },
+  {
+    "product_id": "e38bfda757257dee1985af625f8911fc",
+    "mean_price": 374.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "2742ee84b28b08268f169c5483f71b4a",
+    "mean_price": 110.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "1613b819ab5dae53aead2dbb4ebdb378",
+    "mean_price": 28.1592647059,
+    "sold_units": 1
+  },
+  {
+    "product_id": "3dd2a17168ec895c781a9191c1e95ad7",
+    "mean_price": 149.9364963504,
+    "sold_units": 1
+  },
+  {
+    "product_id": "89e53f7e4890b10cd3fabafe0e4c2989",
+    "mean_price": 177.65,
+    "sold_units": 1
+  },
+  {
+    "product_id": "5348b1bdd951b67a4d2a58992e2233ed",
+    "mean_price": 27.99,
+    "sold_units": 1
+  },
+  {
+    "product_id": "914c9e9af640dd56f48764a225b00f89",
+    "mean_price": 82.5157142857,
+    "sold_units": 1
+  },
+  {
+    "product_id": "193cea27ec2ebc61c91cf7dd70420fad",
+    "mean_price": 349.9,
+    "sold_units": 1
+  },
+  {
+    "product_id": "cc62ab8550303ced5351594a4fd87884",
+    "mean_price": 29.99,
+    "sold_units": 2
+  },
+  {
+    "product_id": "5b226d7c52f86ac72457617f78cff95d",
+    "mean_price": 60.2771428571,
+    "sold_units": 2
+  },
+  {
+    "product_id": "5fc3e6a4b52b0c414458104ed4037f1c",
+    "mean_price": 89.0,
+    "sold_units": 1
+  },
+  {
+    "product_id": "b114bf337c0626166abe574eee9e3f32",
+    "mean_price": 154.5925925926,
+    "sold_units": 2
+  },
+  {
+    "product_id": "fafb498dd2f33cbb55cbd0f7d7706047",
+    "mean_price": 83.3233333333,
+    "sold_units": 1
+  }
+]
